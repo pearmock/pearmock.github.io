@@ -1,16 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7552b16.css",
-    "main.js": "/static/js/main.daf701c2.js",
-    "static/media/Saly-1.jpg": "/static/media/Saly-1.7b9400db579515449324.jpg",
-    "static/media/submitted.svg": "/static/media/submitted.8e962ea3f734baaeb1af0632fc8bc454.svg",
-    "static/media/profileinfoIllustration.svg": "/static/media/profileinfoIllustration.e34faa6e41037645b8752c39fd50633b.svg",
+    "main.css": "/static/css/main.1e2596db.css",
+    "main.js": "/static/js/main.9b30103c.js",
+    "static/media/Landing page image foreground.jpeg": "/static/media/Landing page image foreground.6c2dd8b3b4bf99bf961e.jpeg",
+    "static/media/image 13.svg": "/static/media/image 13.21bd6e37295ee6b631fa10d05f57e3c0.svg",
+    "static/media/Frame 78.svg": "/static/media/Frame 78.806b3653c02164a1e54f892dacc39eb3.svg",
+    "static/media/landing_last.svg": "/static/media/landing_last.54993588234f6f2f4054ff83b78eeddf.svg",
+    "static/media/3 1.svg": "/static/media/3 1.f542a08855bee639774bd4171af42080.svg",
+    "static/media/6 1.svg": "/static/media/6 1.36c8d450b9917707b8e115b70ea8f7fd.svg",
+    "static/media/2 7.svg": "/static/media/2 7.24380d285917765c160a83dee27f9de6.svg",
+    "static/media/submitted.svg": "/static/media/submitted.56b2a77f4b85d99719ffc4ad8c7a7cc5.svg",
+    "static/media/5 1.svg": "/static/media/5 1.d93cae3d80c463e6d4a35bc10da90a4d.svg",
+    "static/media/company.png": "/static/media/company.723c092c60c7ba8adecb.png",
+    "static/media/uc-logo 1.svg": "/static/media/uc-logo 1.dbc4b2214774e292607e590afef46e07.svg",
+    "static/media/8 1.svg": "/static/media/8 1.30f71dd3ead7aacdc9eb7949789e2c5a.svg",
+    "static/media/profileinfoIllustration.svg": "/static/media/profileinfoIllustration.f8bf87a8eaf7d2b44541fc4257b8c883.svg",
+    "static/media/Pearmock logo.svg": "/static/media/Pearmock logo.980d400473d5c462a85226b343a2bdf0.svg",
+    "static/media/4 1.svg": "/static/media/4 1.9dd120760b0f7ec75f27be8fc8379503.svg",
+    "static/media/7 1.svg": "/static/media/7 1.b3135faccf159b0d4965bedfcc9e0438.svg",
+    "static/media/recentmock.svg": "/static/media/recentmock.11ed9fe5118a2bbb9de07a2b0b9ba0eb.svg",
+    "static/media/logo.svg": "/static/media/logo.12ca2daa1f067275d43e772c5fab053d.svg",
     "index.html": "/index.html",
-    "main.b7552b16.css.map": "/static/css/main.b7552b16.css.map",
-    "main.daf701c2.js.map": "/static/js/main.daf701c2.js.map"
+    "main.1e2596db.css.map": "/static/css/main.1e2596db.css.map",
+    "main.9b30103c.js.map": "/static/js/main.9b30103c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7552b16.css",
-    "static/js/main.daf701c2.js"
+    "static/css/main.1e2596db.css",
+    "static/js/main.9b30103c.js"
   ]
 }
